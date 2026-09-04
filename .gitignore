@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+Patient/
+
+# Generated data/features
+*.npy
+*.csv
+
+# Large trained models
+*.h5
+
+# Python environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
